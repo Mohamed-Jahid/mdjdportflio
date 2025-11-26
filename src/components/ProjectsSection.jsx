@@ -13,10 +13,9 @@ const projects  = [
     {
       id:2,
       title:"Instagram Clone Front Page",
-      description: "simple Instagram front-page clone built using React.js for the frontend and a JSON database (using json-server) for storing and managing post data.The application is in its early (halfway) development stage, meaning that the UI and data fetching logic are working, but features like likes, comments, uploads, and user authentication are yet to be implemented.",
+      description: "simple Instagram front-page clone built using React.js for the frontend and a JSON database (using json-server) for storing and managing post data.The application is in its early (halfway) development stage, meaning that the UI and data fetching logic are working, but features like likes, comments, uploads, and user authentication are yet to be implemented, 'In Progress'.",
       Image: "/projects/Screenshot (330).png",
       tags: ["React", "Javascript", "JsonDB"],
-      demoUrl:"#",
       githubUrl:"https://github.com/Mohamed-Jahid/Instaclone.git",
     },
     {
