@@ -23,7 +23,7 @@ const projects  = [
       id:3,
       title:"TicTacToe",
       description: "simple 3×3 Tic-Tac-Toe game using React with Vite as the development environment for fast and efficient setup. The game logic is handled using React Hooks, mainly useState, to manage player turns, board updates, and winner detection. The interface is styled using CSS, giving the board a clean and responsive layout.",
-      Image: "public/projects/1763142415125.jpeg",
+      Image: "projects/1763142415125.jpeg",
       tags: ["React + Vite", "Javascript", "vercel"],
       demoUrl:"https://game01-psi.vercel.app/",
       githubUrl:"https://github.com/Mohamed-Jahid/Instaclone.git",
