@@ -31,7 +31,7 @@ const projects  = [
       id:4,
       title:"SignIn Form",
       description: "Built a simple and responsive sign-up form using React and Tailwind CSS. Implemented component-based structure, state management for form inputs, and clean UI design using utility-first styling. Focused on responsiveness, usability, and modern frontend development practices.",
-      Image: "public/projects/signinform.png",
+      Image: "projects/Signinform.png",
       tags: ["React", "TailwindCSS", "vercel"],
       demoUrl:"https://signinform-roan.vercel.app/",
       githubUrl:"https://github.com/Mohamed-Jahid/signinform.git",
