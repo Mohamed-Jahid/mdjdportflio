@@ -4,7 +4,7 @@ const projects  = [
     {
       id:1,
       title:"A simple Tour Front Page",
-      description: "A responsive front page using Angularjs.",
+      description: "developed a multi-page tour website using AngularJS, TypeScript, and Bootstrap to provide users with an interactive travel browsing experience.the project features a clean and responsive layout, ensuring seamless accessibility across different devices and screen sizes.Each page highlights tour packages, destinations, and booking options, designed for easy navigation and user engagement.",
       Image: "/projects/Screenshot (329).png",
       tags: ["Angularjs", "Typescript", "Netlify"],
       demoUrl:"https://jj-tours.netlify.app/",
@@ -26,6 +26,15 @@ const projects  = [
       tags: ["React + Vite", "Javascript", "vercel"],
       demoUrl:"https://game01-psi.vercel.app/",
       githubUrl:"https://github.com/Mohamed-Jahid/Instaclone.git",
+    },
+    {
+      id:4,
+      title:"SignIn Form",
+      description: "Built a simple and responsive sign-up form using React and Tailwind CSS. Implemented component-based structure, state management for form inputs, and clean UI design using utility-first styling. Focused on responsiveness, usability, and modern frontend development practices.",
+      Image: "public/projects/signinform.png",
+      tags: ["React", "TailwindCSS", "vercel"],
+      demoUrl:"https://signinform-roan.vercel.app/",
+      githubUrl:"https://github.com/Mohamed-Jahid/signinform.git",
     },
 ];
 
