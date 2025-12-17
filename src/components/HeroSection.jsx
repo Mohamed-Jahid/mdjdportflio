@@ -40,7 +40,7 @@ export const HeroSection = () => {
                     <div className="relative w-64 h-64 md:w-90 md:h-90">
                             <div className="absolute inset-0 rounded-full bg-primary animate-pluse-slow opacity-100">
                                 <img  
-                                className= "relative rounded-full w-64 h-64 md:w-90 md:h-90 object-cover z-10 animate-float " src="src\assets\Jahid_profile.webp" alt="profile"/>
+                                className= "relative rounded-full w-64 h-64 md:w-90 md:h-90 object-cover z-10 animate-float " src="src\assets\Jahid_profile.png" alt="profile"/>
                             </div>                
                     </div>
                 </div>                
