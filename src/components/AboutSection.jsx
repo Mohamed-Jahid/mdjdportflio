@@ -32,7 +32,7 @@ export const AboutSection = () => {
 
                     <div className="flex flex-coloumn sm:flex-row gap-4 pt-4 justify-center">
                         <a href="#contact"className="cosmic-button">
-                            Contect Me
+                            Contact Me
                         </a>
                         <a href="https://drive.google.com/file/d/1gvVekh3mbU-iLEKKpBVMoO-W_cJfD2sn/view?usp=sharing"className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300">
                              Resume

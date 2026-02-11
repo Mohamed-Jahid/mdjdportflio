@@ -6,6 +6,7 @@ const skills  = [
     // FrontEnd
     {name: "HTML/CSS", level:80, category: "frontend"},
     {name: "JavaScript", level:65, category:"frontend"},
+    {name: "TypeScript", level:60, category:"frontend"},
     {name: "React" ,level:65, category:"frontend"},
     {name: "Angularjs", level:65, category:"frontend"},
     {name: "Bootstrap", level:70, category:"frontend"},
@@ -16,16 +17,22 @@ const skills  = [
     {name: "nodejs", level:50, category:"backend"},
     {name: "SQL" ,level:50, category:"backend"},
     {name: "jsonDB" , level:70, category:"backend"},
+    {name: "NeonDB" , level:60, category:"backend"},
+    
+    // Database Management
+    {name: "PostgreSQL" , level:60, category:"Database-Management"},
+    {name: "MySQl" , level:60, category:"Database-Management"},
 
     // Tools
     {name: "Git/GitHub" ,level:60, category : "Tools"},
     {name: "VS Code" ,level:70, category: "Tools"},
     {name: "Netlify" ,level:70, category: "Tools"},
+    {name: "Vercel" ,level:70, category: "Tools"},
     {name: "Eclipse" ,level:40, category: "Tools"},
 
 ];
 
-const categories = ["all" , "frontend" , "backend", "Tools"]
+const categories = ["all" , "frontend" , "backend", "Database-Management", "Tools"]
 
 
 export const SkillsSection = () => {

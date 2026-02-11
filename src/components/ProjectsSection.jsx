@@ -36,6 +36,32 @@ const projects  = [
       demoUrl:"https://signinform-roan.vercel.app/",
       githubUrl:"https://github.com/Mohamed-Jahid/signinform.git",
     },
+    {
+      id:5,
+      title:"Count Timer Application",
+      description: "Developed a Stopwatch (Count Timer) web application using React with Vite, focusing on efficient state management, real-time updates, and clean UI design. This project demonstrates practical usage of React Hooks and modern frontend development practices.",
+      Image: "projects/Stopwatch.png",
+      tags: ["ReactJS","JavaScript", "TailwindCSS", "vercel"],
+      demoUrl:"https://stopwatch-plum-two.vercel.app/",
+      githubUrl:"https://github.com/Mohamed-Jahid/CountTimer",
+    },
+    {
+      id:6,
+      title:"Calculator",
+      description: "Built a responsive Simple Calculator web application using React with Vite for fast development and optimized performance. The project focuses on implementing core arithmetic operations with clean UI design and efficient state management.",
+      Image: "projects/Calculator.png",
+      tags: ["ReactJS", "vite","JavaScript", "CSS", "vercel"],
+      demoUrl:"https://calculator-nine-sandy-54.vercel.app/",
+      githubUrl:"https://github.com/Mohamed-Jahid/Calculator",
+    },
+    {
+      id:7,
+      title:"Travel Planner 'Full Stack Web Application'",
+      description: "Travel-Planner is a full-stack web application designed to help users plan, organize, and manage travel itineraries seamlessly. The platform enables authenticated users to create personalized tour plans, upload media, and manage trip-related data securely and efficiently. This application is built using Next.js with a modern full-stack architecture, ensuring high performance, scalability, and an intuitive user experience.And it is in currently under active development, Although the application is not yet deployed.",
+      Image: "projects/Travel-PlannerGIT.png",
+      tags: ["Next.js", "Prisma ORM","uploadthing", "OAuth", "GitHub", "NeonDB"],
+      githubUrl:"https://github.com/Mohamed-Jahid/Travel-planner.git",
+    },
 ];
 
 export const ProjectsSection = () => {
